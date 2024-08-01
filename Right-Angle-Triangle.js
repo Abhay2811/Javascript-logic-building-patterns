@@ -1,3 +1,9 @@
+// 1
+// 12
+// 123
+// 1234
+// 12345
+
 let col = 5;
 for (let i = 1; i <= col; i++) {
 	let result = '';
@@ -9,6 +15,13 @@ for (let i = 1; i <= col; i++) {
 
 
 // Right Angle triangle star pattern
+
+// *
+// **
+// ***
+// ****
+// *****
+
 let max = 5;
 for (let i = 1; i <= max; i++) {
 	let result = '';
